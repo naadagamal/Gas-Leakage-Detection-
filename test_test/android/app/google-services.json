@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1097426274477",
+    "firebase_url": "https://gas-detection-ab944-default-rtdb.firebaseio.com",
+    "project_id": "gas-detection-ab944",
+    "storage_bucket": "gas-detection-ab944.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097426274477:android:6709311ed7e3208bf51e24",
+        "android_client_info": {
+          "package_name": "com.example.test_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjtNqGddXeV6BwNjCAatyBQeSW_QVdtSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097426274477:android:1eea489bfd884cd4f51e24",
+        "android_client_info": {
+          "package_name": "com.gasdetection.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjtNqGddXeV6BwNjCAatyBQeSW_QVdtSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
